@@ -60,19 +60,12 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 3. Make your changes and commit them (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=
 
 ## Acknowledgements
 
 - Thanks to all contributors and the open-source community for their support.
-- Special thanks to [Sound Library](https://your-sound-library-link.com) for providing the sounds used in this project.
 
-## Contact
-
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
 
 ````
 
